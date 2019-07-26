@@ -1,4 +1,4 @@
-# Tweets_processing
+# Tweets_processing streaming tweets and processing in real time it by PySpark
 
 # run
 # run Twitter_streamer.py

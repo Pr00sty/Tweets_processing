@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
-import os
-os.system('chcp 65001')
+# import os
+# os.system('chcp 65001')
 
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
